@@ -37,8 +37,9 @@ Import Google Fonts
 --------------------*/
 
 body {
-  margin: 0px;
+    margin: 0px;
     font-family: "Open Sans", Sans-serif;
+    overflow-x: hidden;
 }
 
 h1,
@@ -96,14 +97,17 @@ section {
 	background-color: #283152;
 	border-color: transparent
 }
+
 .navbar-default .navbar-brand {
 	color: #fff;
 	font-family: "Montserrat",sans-serif;
-    padding: 0px;
+    padding: 0 0 0 15px;
 }
+
 .navbar-brand-logo {
     width: 105px;
 }
+
 .navbar-default .navbar-brand:hover,.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active {
 	color: #419982
 }
@@ -462,7 +466,8 @@ figure.effect-bubba img {
 	transition: opacity 0.35s;
 }
 
-figure.effect-bubba:hover img {
+figure.effect-bubba:hover img,
+figure.effect-bubba:focus img {
 	opacity: 0.4;
 }
 
@@ -495,7 +500,7 @@ figure.effect-bubba figcaption::after {
 
 figure.effect-bubba h2 {
     color: #fff;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
     text-transform: uppercase;
 	padding-top: 50%;
@@ -505,9 +510,10 @@ figure.effect-bubba h2 {
 
 figure.effect-bubba p {
     color: #fff;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
-	padding: 20px 2.5em;
+    padding: 0 2.5em;
+    line-height: 1em;
 	opacity: 0;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
@@ -516,24 +522,30 @@ figure.effect-bubba p {
 }
 
 figure.effect-bubba:hover figcaption::before,
-figure.effect-bubba:hover figcaption::after {
+figure.effect-bubba:hover figcaption::after,
+figure.effect-bubba:focus figcaption::before,
+figure.effect-bubba:focus figcaption::after {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
 
-figure.effect-bubba:hover h2 {
+figure.effect-bubba:hover h2,
+figure.effect-bubba:focus h2 {
     padding-top: 30%;
 }
 
 figure.effect-bubba:hover h2,
-figure.effect-bubba:hover p {
+figure.effect-bubba:hover p,
+figure.effect-bubba:focus h2,
+figure.effect-bubba:focus p {
 	opacity: 1;
 	-webkit-transform: translate3d(0,-20px,0);
 	transform: translate3d(0,-20px,0);
 }
 
-figure.effect-bubba:hover img {
+figure.effect-bubba:hover img,
+figure.effect-bubba:focus img {
     opacity: 0.2;
 }
 

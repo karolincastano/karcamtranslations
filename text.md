@@ -8,6 +8,10 @@ Ofrecemos un servicio eficaz y con responsabilidad
 En KarCamtranslations trabajamos con pasión para que nuestros clientes queden satisfechos y siempre vuelvan a nuestra agencia.
 Somos un equipo de traductores apasionados por nuestro trabajo. Nos gusta entregar traducciones de calidad, a tiempo y de confianza.
 Contamos con traductores nativos y bilingües especializados.
+Utilizamos la mejor tecnología para traducir de acuerdo al tipo de traducción y así optimizar nuestros procesos de producción.
+
+# Historia:
+Somos una agencia que inició como un grupo de estudiantes de traducción en el año 2017. Iniciamos con pocos traductores y poco a poco logramos financiación para formar una agencia estable y con clientes fijos. Recientemente hemos crecido a un ritmo constante, aumentando nuestra producción, nuestro equipo y nuestros servicios.
 
 ### Nos especializamos en los siguientes campos:
 #### Traducción
@@ -23,7 +27,7 @@ https://fontawesome.com/icons/tv?style=solid&fbclid=IwAR1RZ_VV5_4rE4YtcKy9WJN10X
 Enfocada en la localización de videojuegos y páginas web.
 https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729TxK71eiUI2YSfMqQ4LZpD1KZvFDMXWQ35284OPg
 
-# Idiomas disponibles:
+# Idiomas:
 - Inglés-español, español-inglés 
 - Japonés- español, español-japonés
 - Francés- español, español-francés
@@ -37,7 +41,7 @@ https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729T
 - Proyectos: 500
 - Equipo: 30+
 
-# Portafolio, clientes:
+# Clientes:
 - Netflix: subtitulaje y doblaje de series y películas.
 - Square Enix: localización de videojuegos a español de latinoamérica.
 - Disney: subtitulaje y doblaje de series.
@@ -45,13 +49,21 @@ https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729T
 - Microsoft: localización de contenido web.
 - EPM: documentación técnica.
 
+# Formas de pago:
+Transferencia Bancaria
+Tarjeta de Crédito
+Paypal
+
 # Nuestro Equipo:
-- Karolin Castaño, Coordinadora, líder en inglés, alemán y francés.
-- Camila Nigrinis, Coordinador, líder en japonés, italiano y coreano.
+- Karolin Castaño, Directora.
+- Camila Nigrinis, Coordinadora.
+
+# Traductores:
+Si eres traductor freelance, puedes enviarnos tu currículum vitae a karcam@gmail.com.
+Karcam es una de las mejores agencias, realizamos los pagos puntualmente, tendrás la oportunidad de trabajar en proyectos muy interesantes y contamos con gestores de proyectos profesionales que te ayudarán a crecer como traductor.
 
 # Contáctanos:
-- karolin.castano@udea.edu.co
-- maria.nigrinis@udea.edu.co
+karcam@gmail.com
 https://fontawesome.com/icons/envelope-square?style=solid
 - Carrera 34 # 11-23 Medellín, Colombia.
 https://fontawesome.com/icons/map-marker-alt?style=solid
