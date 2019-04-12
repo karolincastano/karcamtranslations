@@ -55,8 +55,8 @@ Paypal
 - Camila Nigrinis, Coordinadora.
 
 # Traductores:
-Si eres traductor freelance, puedes enviarnos tu currículum vitae a karcam@gmail.com
-¡Siempre estamos en la búsqueda de nuevos traductores y será un placer saber de ti!
+Si eres traductor freelance, puedes enviarnos tu currículum vitae a karcam@gmail.com.
+Karcam es una de las mejores agencias, realizamos los pagos puntualmente, tendrás la oportunidad de trabajar en proyectos muy interesantes y contamos con gestores de proyectos profesionales que te ayudarán a crecer como traductor.
 
 # Contáctanos:
 karcam@gmail.com
