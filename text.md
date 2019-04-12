@@ -8,6 +8,7 @@ Ofrecemos un servicio eficaz y con responsabilidad
 En KarCamtranslations trabajamos con pasión para que nuestros clientes queden satisfechos y siempre vuelvan a nuestra agencia.
 Somos un equipo de traductores apasionados por nuestro trabajo. Nos gusta entregar traducciones de calidad, a tiempo y de confianza.
 Contamos con traductores nativos y bilingües especializados.
+Utilizamos la mejor tecnología para traducir de acuerdo al tipo de traducción y así optimizar nuestros procesos de producción.
 
 ### Nos especializamos en los siguientes campos:
 #### Traducción
