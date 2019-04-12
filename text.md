@@ -10,6 +10,9 @@ Somos un equipo de traductores apasionados por nuestro trabajo. Nos gusta entreg
 Contamos con traductores nativos y bilingües especializados.
 Utilizamos la mejor tecnología para traducir de acuerdo al tipo de traducción y así optimizar nuestros procesos de producción.
 
+# Historia:
+Somos una agencia que inició como un grupo de estudiantes de traducción en el año 2017. Iniciamos con pocos traductores y poco a poco logramos financiación para formar una agencia estable y con clientes fijos. Recientemente hemos crecido a un ritmo constante, aumentando nuestra producción, nuestro equipo y nuestros servicios.
+
 ### Nos especializamos en los siguientes campos:
 #### Traducción
 Traducciones científico-técnicas y literarias.
