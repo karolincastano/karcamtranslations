@@ -23,7 +23,7 @@ https://fontawesome.com/icons/tv?style=solid&fbclid=IwAR1RZ_VV5_4rE4YtcKy9WJN10X
 Enfocada en la localización de videojuegos y páginas web.
 https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729TxK71eiUI2YSfMqQ4LZpD1KZvFDMXWQ35284OPg
 
-# Idiomas disponibles:
+# Idiomas:
 - Inglés-español, español-inglés 
 - Japonés- español, español-japonés
 - Francés- español, español-francés
@@ -37,7 +37,7 @@ https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729T
 - Proyectos: 500
 - Equipo: 30+
 
-# Portafolio, clientes:
+# Clientes:
 - Netflix: subtitulaje y doblaje de series y películas.
 - Square Enix: localización de videojuegos a español de latinoamérica.
 - Disney: subtitulaje y doblaje de series.
@@ -46,8 +46,8 @@ https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729T
 - EPM: documentación técnica.
 
 # Nuestro Equipo:
-- Karolin Castaño, Coordinadora, líder en inglés, alemán y francés.
-- Camila Nigrinis, Coordinador, líder en japonés, italiano y coreano.
+- Karolin Castaño, Directora.
+- Camila Nigrinis, Coordinadora.
 
 # Contáctanos:
 - karolin.castano@udea.edu.co
