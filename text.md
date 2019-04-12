@@ -45,13 +45,21 @@ https://fontawesome.com/icons/gamepad?style=solid&fbclid=IwAR3TLhUU44-qp2aec729T
 - Microsoft: localización de contenido web.
 - EPM: documentación técnica.
 
+# Formas de pago:
+Transferencia Bancaria
+Tarjeta de Crédito
+Paypal
+
 # Nuestro Equipo:
 - Karolin Castaño, Directora.
 - Camila Nigrinis, Coordinadora.
 
+# Traductores:
+Si eres traductor freelance, puedes enviarnos tu currículum vitae a karcam@gmail.com
+¡Siempre estamos en la búsqueda de nuevos traductores y será un placer saber de ti!
+
 # Contáctanos:
-- karolin.castano@udea.edu.co
-- maria.nigrinis@udea.edu.co
+karcam@gmail.com
 https://fontawesome.com/icons/envelope-square?style=solid
 - Carrera 34 # 11-23 Medellín, Colombia.
 https://fontawesome.com/icons/map-marker-alt?style=solid
